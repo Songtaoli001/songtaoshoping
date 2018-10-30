@@ -1,0 +1,11 @@
+com\songtao\mapper\TbItemDescMapper.class
+com\songtao\mapper\TbItemParamItemMapper.class
+com\songtao\mapper\TbOrderMapper.class
+com\songtao\mapper\TbOrderItemMapper.class
+com\songtao\mapper\TbItemCatMapper.class
+com\songtao\mapper\TbOrderShippingMapper.class
+com\songtao\mapper\TbContentMapper.class
+com\songtao\mapper\TbContentCategoryMapper.class
+com\songtao\mapper\TbItemMapper.class
+com\songtao\mapper\TbItemParamMapper.class
+com\songtao\mapper\TbUserMapper.class
