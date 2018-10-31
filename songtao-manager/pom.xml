@@ -19,13 +19,17 @@
 		</dependency>
 		
 	</dependencies>
-  
-	<modules>
+  <profiles>
+  	<profile>
+  	<modules>
 		<module>songtao-manager-pojo</module>
 		<module>songtao-manager-mapper</module>
 		<module>songtao-manager-service</module>
 		<module>songtao-manager-web</module>
 	</modules>
+	
+  	</profile>
+  </profiles>
 	
 	<build>
 		<!-- 配置插件 -->
