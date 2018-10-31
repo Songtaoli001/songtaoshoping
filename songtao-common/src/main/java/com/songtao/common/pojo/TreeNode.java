@@ -1,17 +1,10 @@
 package com.songtao.common.pojo;
 
 public class TreeNode {
-	
+
 	private long id;
 	private String text;
 	private String state;
-	
-	public TreeNode(long id, String text, String state) {
-		this.id = id;
-		this.text = text;
-		this.state = state;
-	}
-	
 	public long getId() {
 		return id;
 	}
@@ -30,5 +23,4 @@ public class TreeNode {
 	public void setState(String state) {
 		this.state = state;
 	}
-
 }
