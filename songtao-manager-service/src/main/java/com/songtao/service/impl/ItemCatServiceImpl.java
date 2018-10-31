@@ -31,12 +31,14 @@ public class ItemCatServiceImpl implements ItemCatService {
 	
 	//分类列表转换成treenode 的列表
 	List<TreeNode> resultList = new ArrayList<>();
-	for(TbItemCat tbItemCat:list) {
-		//创建一个node对象
-		TreeNode node=new TreeNode(tbItemCat.getId(), tbItemCat.getName(),
-				tbItemCat.getIsParent()?"close":"open");
-		resultList.add(node);
-	}
+	//把列表转换成treeNodelist
+			for (TbItemCat tbItemCat : list) {
+				TreeNode node = new TreeNode();
+				node.setId(tbItemCat.getId());
+				node.setText(tbItemCat.getName());
+				node.setState(tbItemCat.getIsParent()?"closed":"open");
+				resultList.add(node);
+			}
 		
 		return resultList;
 	}
