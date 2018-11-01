@@ -28,7 +28,6 @@ public TaotaoResult insertcontent(TbContent content) {
 @RequestMapping("/query/list")
 @ResponseBody
 public List<TbContent> getEUDataGridResult(long categoryId) {
-	System.out.println("categoryId: "+categoryId);
 	List<TbContent> list=contentService.selectaByID(categoryId);
 	return list;
 }
