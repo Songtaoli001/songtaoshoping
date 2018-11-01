@@ -24,10 +24,8 @@ public class ContentServiceImpl implements ContentService {
 
 	@Override
 	public String getContentList() {
-		System.out.println(REST_BASE_URL+"\n"+REST_INDEX_AD_URL);
 		//调用服务层的服务192.168.232.128 http://localhost:8080/rest/content/list/89
 		String result = HttpClientUtil.doGet(REST_BASE_URL+REST_INDEX_AD_URL);
-		System.out.println(result);
 	try {
 		//把字符串转换为taotaoresult
 		TaotaoResult taotaoResult = TaotaoResult.formatToList(result, TbContent.class);
