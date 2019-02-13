@@ -1,11 +1,11 @@
-D:\Program Files\eclipse_workspace\songtao-manager\songtao-manager-mapper\src\main\java\com\songtao\mapper\TbContentCategoryMapper.java
-D:\Program Files\eclipse_workspace\songtao-manager\songtao-manager-mapper\src\main\java\com\songtao\mapper\TbItemDescMapper.java
-D:\Program Files\eclipse_workspace\songtao-manager\songtao-manager-mapper\src\main\java\com\songtao\mapper\TbContentMapper.java
-D:\Program Files\eclipse_workspace\songtao-manager\songtao-manager-mapper\src\main\java\com\songtao\mapper\TbItemParamMapper.java
-D:\Program Files\eclipse_workspace\songtao-manager\songtao-manager-mapper\src\main\java\com\songtao\mapper\TbItemCatMapper.java
-D:\Program Files\eclipse_workspace\songtao-manager\songtao-manager-mapper\src\main\java\com\songtao\mapper\TbOrderShippingMapper.java
-D:\Program Files\eclipse_workspace\songtao-manager\songtao-manager-mapper\src\main\java\com\songtao\mapper\TbOrderMapper.java
-D:\Program Files\eclipse_workspace\songtao-manager\songtao-manager-mapper\src\main\java\com\songtao\mapper\TbItemParamItemMapper.java
-D:\Program Files\eclipse_workspace\songtao-manager\songtao-manager-mapper\src\main\java\com\songtao\mapper\TbUserMapper.java
-D:\Program Files\eclipse_workspace\songtao-manager\songtao-manager-mapper\src\main\java\com\songtao\mapper\TbItemMapper.java
-D:\Program Files\eclipse_workspace\songtao-manager\songtao-manager-mapper\src\main\java\com\songtao\mapper\TbOrderItemMapper.java
+D:\Users\Administrator\git\songtaoshoping\songtao-manager\songtao-manager-mapper\src\main\java\com\songtao\mapper\TbOrderMapper.java
+D:\Users\Administrator\git\songtaoshoping\songtao-manager\songtao-manager-mapper\src\main\java\com\songtao\mapper\TbOrderShippingMapper.java
+D:\Users\Administrator\git\songtaoshoping\songtao-manager\songtao-manager-mapper\src\main\java\com\songtao\mapper\TbItemParamItemMapper.java
+D:\Users\Administrator\git\songtaoshoping\songtao-manager\songtao-manager-mapper\src\main\java\com\songtao\mapper\TbItemParamMapper.java
+D:\Users\Administrator\git\songtaoshoping\songtao-manager\songtao-manager-mapper\src\main\java\com\songtao\mapper\TbItemDescMapper.java
+D:\Users\Administrator\git\songtaoshoping\songtao-manager\songtao-manager-mapper\src\main\java\com\songtao\mapper\TbItemMapper.java
+D:\Users\Administrator\git\songtaoshoping\songtao-manager\songtao-manager-mapper\src\main\java\com\songtao\mapper\TbContentMapper.java
+D:\Users\Administrator\git\songtaoshoping\songtao-manager\songtao-manager-mapper\src\main\java\com\songtao\mapper\TbContentCategoryMapper.java
+D:\Users\Administrator\git\songtaoshoping\songtao-manager\songtao-manager-mapper\src\main\java\com\songtao\mapper\TbOrderItemMapper.java
+D:\Users\Administrator\git\songtaoshoping\songtao-manager\songtao-manager-mapper\src\main\java\com\songtao\mapper\TbUserMapper.java
+D:\Users\Administrator\git\songtaoshoping\songtao-manager\songtao-manager-mapper\src\main\java\com\songtao\mapper\TbItemCatMapper.java

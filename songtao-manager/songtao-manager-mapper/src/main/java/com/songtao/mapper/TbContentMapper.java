@@ -33,4 +33,8 @@ public interface TbContentMapper {
     int updateByPrimaryKeyWithBLOBs(TbContent record);
 
     int updateByPrimaryKey(TbContent record);
+
+    List<Long>  deleteAudioAudioFiles(@Param("ids")List<Long> ids);
+
+	void delete(long id);
 }
